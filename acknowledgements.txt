@@ -1,0 +1,13 @@
+Discussed assignment with: No one
+
+Libraries used:
+- pandas: For data manipulation and reading/writing CSV/TSV files
+- numpy: For numerical operations and array manipulations
+- torch: For running BERT model computations
+- transformers: For loading and using pre-trained BERT model from Hugging Face
+- sklearn.linear_model: For training linear regression model
+- json: For encoding embedding vectors as JSON
+- tqdm: For progress bars during processing
+
+Additional resources:
+I used the lecture materials provided in the course. I refered to Piaza for understanding the file size and rounding solutions. I also referenced the Hugging Face documentation for the BERT model implementation and for the API key and how to use it in Google Colab.
